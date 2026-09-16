@@ -1,4 +1,4 @@
-# Adventure Works Sales & Customer Analytics
+a# Adventure Works Sales & Customer Analytics
 
 A multi-tool analytics project analyzing Adventure Works Cycles' sales, product, and customer data — built using **Excel, SQL, Power BI, and Tableau**.
 
@@ -93,6 +93,7 @@ Two dashboards: **Overview** and **Customer Analysis**.
 | `FactInternetSalesNew.xlsx` | Raw sales fact data 2 |
 | `Final Sales Report.xlsx` | Consolidated Excel workbook — data model, relationships, pivot tables, charts & questionnaire answers |
 | `Adventure PBI.pbix` | Power BI project file |
+| `All Questions.sql` | SQL Script |
 | `Sales.twbx` | Tableau  project file |
 | Screenshots | Dashboard exports from Excel, Power BI and Tableau |
 
