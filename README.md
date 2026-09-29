@@ -1,4 +1,4 @@
-a# Adventure Works Sales & Customer Analytics
+Adventure Works Sales & Customer Analytics
 
 A multi-tool analytics project analyzing Adventure Works Cycles' sales, product, and customer data — built using **Excel, SQL, Power BI, and Tableau**.
 
